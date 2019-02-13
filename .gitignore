@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # User defined
 .DS_Store
 *.diff
 
+=======
+>>>>>>> f9d7cb4df4436efc140ffbde00baf6612f7d6d96
 
 # Created by https://www.gitignore.io/api/node,macos,linux,windows,webstorm,visualstudiocode
 
